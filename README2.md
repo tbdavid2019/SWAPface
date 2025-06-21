@@ -1,4 +1,4 @@
-# 🎭 AI 頭像工作室 (Gradio 版)
+# 🎭 頭像換臉 (Gradio 版)
 
 這是一個使用 Gradio 和 InsightFace 技術建立的 AI 換臉應用程式。專案經過簡化，移除了前後端分離的複雜架構，改用單一的 Gradio 應用程式，使其更容易在本地端執行、打包成 Docker 映像檔，或部署到 Hugging Face Spaces。
 
